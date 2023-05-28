@@ -11,3 +11,6 @@ bool isSymmetric(int matrix[][Max], int n) {
     }
     return true;
 }
+int main(){
+    bool flag=0;
+}
